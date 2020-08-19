@@ -1,0 +1,52 @@
+Sun Aug 16 18:21:58 2020 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Sun Aug 16 18:21:58 2020 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Sun Aug 16 18:21:58 2020 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Sun Aug 16 18:21:58 2020 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Err: obj an icicle (9227) -- 28, mob the Ice Bandit (9228) -- 24
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Err: obj an ice staff (9216) -- 25, mob a baby rainbow dragon (9235) -- 16
+Err: obj an ice staff (9216) -- 25, mob a puddle (9214) -- 8
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj an elemental rod of earthquake (9217) -- 7, mob a small rock (9217) -- 3
+Err: obj elemental wand of wind and air (9218) -- 27, mob a small spark (9218) -- 4
+Err: obj elemental wand of wind and air (9218) -- 27, mob an eddie (9225) -- 2
+Err: obj a wet noodle (8010) -- 5, mob a Futsie (8002) -- 17
+Sun Aug 16 18:21:58 2020 :: ROM is ready to rock on port 9000.
+Sun Aug 16 18:22:04 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 18:22:07 2020 :: Loading Thorin.
+Sun Aug 16 18:22:10 2020 :: Thorin@localhost has connected.
+Sun Aug 16 18:22:15 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 18:22:17 2020 :: Loading Boris.
+Sun Aug 16 18:22:18 2020 :: Boris@localhost has connected.
+Sun Aug 16 18:27:38 2020 :: Log Thorin: load obj 3028
+Sun Aug 16 18:36:35 2020 :: Log Thorin: load obj 3028 1
+Sun Aug 16 18:37:12 2020 :: Log Thorin: load obj 3028 5
+Sun Aug 16 18:38:57 2020 :: Log Thorin: slay troll
+Sun Aug 16 18:38:59 2020 :: Log Thorin: slay troll
+Sun Aug 16 18:40:39 2020 :: Boris gained level 6
+Sun Aug 16 18:40:39 2020 :: [*****] BUG: luck was 21 and perc was 62.
+Sun Aug 16 18:40:39 2020 :: [*****] BUG: HP gain: 11  MANA gain: 2  MOVE gain: 6
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Err: obj an ice staff (9216) -- 25, mob a puddle (9214) -- 8
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj an elemental rod of earthquake (9217) -- 7, mob a small rock (9217) -- 3
+Err: obj elemental wand of wind and air (9218) -- 27, mob a small spark (9218) -- 4
+Err: obj elemental wand of wind and air (9218) -- 27, mob an eddie (9225) -- 2
+Err: obj a wet noodle (8010) -- 5, mob a Futsie (8002) -- 17
+Sun Aug 16 19:39:54 2020 :: Boris has quit.
+Sun Aug 16 19:40:33 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 19:40:35 2020 :: Loading Boris.
+Sun Aug 16 19:40:38 2020 :: Boris@localhost has connected.
+Sun Aug 16 19:41:17 2020 :: Log Thorin: load obj 2245
+Sun Aug 16 19:41:29 2020 :: Log Thorin: set obj staff level 1
+Sun Aug 16 19:48:14 2020 :: Boris killed by the goblin lieutenant at 3556
+Sun Aug 16 19:51:25 2020 :: Boris has quit.
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Sun Aug 16 20:34:49 2020 :: Sock.sinaddr:  192.168.2.223
+Sun Aug 16 20:34:53 2020 :: Loading Boris.
+Sun Aug 16 20:34:56 2020 :: Boris@MacBook-Pro has connected.
+Sun Aug 16 20:35:26 2020 :: Boris has quit.
+Sun Aug 16 20:43:09 2020 :: Sock.sinaddr:  192.168.2.213
+Sun Aug 16 20:43:13 2020 :: EOF encountered on read.
+Sun Aug 16 22:55:02 2020 :: Thorin has quit.
