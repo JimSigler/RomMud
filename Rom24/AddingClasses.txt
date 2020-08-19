@@ -1,0 +1,54 @@
+Adding a new class:
+** Note: a lot of things are still hard coded for specific classes
+** be sure to change where appropriate
+** i.e. a lot of spells and things check for fMana for casters 
+
+add to class table in const.c
+	- class_type struct in merc.h
+		struct	class_type
+		{
+			char *	name;			/* the full name of the class */
+			char 	who_name	[4];	/* Three-letter name for 'who'	*/
+			sh_int	attr_prime;		/* Prime attribute		*/
+			sh_int	weapon;			/* First weapon			*/
+			sh_int	guild[MAX_GUILD];	/* Vnum of guild rooms		*/
+			sh_int	skill_adept;		/* Maximum skill level		*/
+			sh_int	thac0_00;		/* Thac0 for level  0		*/
+			sh_int	thac0_32;		/* Thac0 for level 32		*/
+			sh_int	hp_min;			/* Min hp gained on leveling	*/
+			sh_int	hp_max;			/* Max hp gained on leveling	*/
+			bool	fMana;			/* Class gains mana on level	*/
+			char *	base_group;		/* base skills gained		*/
+			char *	default_group;		/* default skills gained	*/
+		};
+
+change MAX_CLASS in merc.h to reflect the new class(es)
+add race info to group_table in const.c *if different from existing
+Add titles to title_table in const.c
+
+merc.h -
+need to change the skill_table to reflect the new class 
+	struct	skill_type
+{
+    char *	name;			/* Name of skill		*/
+    sh_int	skill_level[MAX_CLASS];	/* Level needed by class	*/
+    sh_int	rating[MAX_CLASS];	/* How hard it is to learn	*/	
+    SPELL_FUN *	spell_fun;		/* Spell pointer (for spells)	*/
+    sh_int	target;			/* Legal targets		*/
+    sh_int	minimum_position;	/* Position for caster / user	*/
+    sh_int *	pgsn;			/* Pointer to associated gsn	*/
+    sh_int	slot;			/* Slot for #OBJECT loading	*/
+    sh_int	min_mana;		/* Minimum mana used		*/
+    sh_int	beats;			/* Waiting time after use	*/
+    char *	noun_damage;		/* Damage message		*/
+    char *	msg_off;		/* Wear off message		*/
+    char *	msg_obj;		/* Wear off message for obects	*/
+};
+
+update group_table in const.c to reflect new class
+	struct  group_type
+	{
+		char *	name;
+		sh_int	rating[MAX_CLASS];
+		char *	spells[MAX_IN_GROUP];
+	};

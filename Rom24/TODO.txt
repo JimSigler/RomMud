@@ -6,6 +6,7 @@ TODO:
 2. cooldown times for skills/spells
 3. add D&D races
 4. add D&D classes
+	- monk - In process
 5. add multi-classing
 6. redo character creation 
 	a. allow stat assignment
@@ -16,3 +17,7 @@ TODO:
 
 DONE could be improved upon:
 1. add ability to send log data to imm channel / bug channel
+
+
+Static IP: 
+54.197.153.198

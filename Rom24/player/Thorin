@@ -1,9 +1,9 @@
 #PLAYER
 Name Thorin~
 Id   1597264469
-LogO 1597602725
+LogO 1597854381
 Vers 5
-Prom <%h/%Hhp %m/%Mm %v/%Vmv room:{W%R{x area:{W%z{x> ~
+Prom {WLOCAL{x Room:{W%R{x Area:{W%z{x ~
 Race human~
 Sex  1
 Etrait 0
@@ -13,13 +13,13 @@ Iheight 0
 Weight 0
 Cla  0
 Levl 60
-Plyd 145684
+Plyd 238436
 Not  0 0 0 0 0
 Scro 22
 Room 1209
 HMV  10029 10029 10034 10034 466 466
 Gold 23
-Silv 424
+Silv 478
 Exp  60000
 Act  DNQT
 Comm NO
@@ -167,7 +167,7 @@ Sk 99 'fast healing'
 Sk 99 'haggle'
 Sk 99 'hide'
 Sk 99 'lore'
-Sk 99 'meditation'
+Sk 100 'meditation'
 Sk 99 'peek'
 Sk 99 'pick lock'
 Sk 99 'sneak'
@@ -490,6 +490,13 @@ Vnum 9210
 Nest 0
 Wear 12
 Cost 3000
+End
+
+#O
+Vnum 9322
+Nest 0
+Wear -1
+Cost 1690
 End
 
 #END

@@ -1,0 +1,25 @@
+const.c
+- add race to race_table
+	all flags can be found in merc.h
+	race_type struct in merc.h
+		char *	name;			/* call name of the race */
+		bool	pc_race;		/* can be chosen by pcs */
+		long	act;			/* act bits for the race */
+		long	aff;			/* aff bits for the race */
+		long	off;			/* off bits for the race */
+		long	imm;			/* imm bits for the race */
+		long        res;			/* res bits for the race */
+		long	vuln;			/* vuln bits for the race */
+		long	form;			/* default form flag for the race */
+		long	parts;			/* default parts for the race */
+- add race to pc_race_table (if playable race)
+	all flags can be found in merc.h
+	pc_race_type struct in merc.h
+		char *	name;			/* MUST be in race_type */
+		char 	who_name[24];
+		sh_int	points;			/* cost in points of the race */
+		sh_int	class_mult[MAX_CLASS];	/* exp multiplier for class, * 100 */
+		char *	skills[5];		/* bonus skills for the race */
+		sh_int 	stats[MAX_STATS];	/* starting stats */
+		sh_int	max_stats[MAX_STATS];	/* maximum stats */
+		sh_int	size;			/* aff bits for the race */

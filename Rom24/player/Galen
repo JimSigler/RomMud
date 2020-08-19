@@ -1,7 +1,7 @@
 #PLAYER
 Name Galen~
 Id   1597599388
-LogO 1597602785
+LogO 1597607249
 Vers 5
 Prom {c<%hhp %mm %vmv>{x ~
 Race dragonborn~
@@ -13,11 +13,11 @@ Iheight 1
 Weight 195
 Cla  1
 Levl 5
-Plyd 3332
+Plyd 7796
 Not  0 0 0 0 0
 Scro 22
-Room 3759
-HMV  50 59 43 113 124 124
+Room 3001
+HMV  59 59 113 113 124 124
 Gold 0
 Silv 558
 Exp  8165
@@ -25,12 +25,11 @@ Act  DEFQ
 AfBy JT
 Comm NO
 Pos  8
-Trai 1
 Save  -1
 Alig  750
 Hit   1
 ACs 85 83 83 99
-Attr 15 11 18 12 18 14 13
+Attr 15 11 19 12 18 14 13
 AMod 0 0 0 0 0 0 0
 Pass GaC55V4AkpfeA~
 Titl  the Missionary~
@@ -38,7 +37,7 @@ Pnts 46
 TSex 1
 LLev 0
 HMVP 59 113 124
-Cnd  0 6 11 6
+Cnd  0 2 1 4
 Sk 39 'armor'
 Sk 1 'bless'
 Sk 1 'blindness'
@@ -134,7 +133,7 @@ Vnum 3716
 Nest 0
 Wear 0
 Cost 0
-Val  0 0 145 0 0
+Val  0 0 71 0 0
 End
 
 #O
@@ -233,48 +232,7 @@ Vnum 3138
 Nest 0
 Wear -1
 Cost 24
-End
-
-#O
-Vnum 3011
-Nest 0
-Wear -1
-Cost 9
-End
-
-#O
-Vnum 3011
-Nest 0
-Wear -1
-Cost 9
-End
-
-#O
-Vnum 3011
-Nest 0
-Wear -1
-Cost 9
-End
-
-#O
-Vnum 3011
-Nest 0
-Wear -1
-Cost 9
-End
-
-#O
-Vnum 3011
-Nest 0
-Wear -1
-Cost 9
-End
-
-#O
-Vnum 3011
-Nest 0
-Wear -1
-Cost 9
+Val  64 0 0 0 0
 End
 
 #O
