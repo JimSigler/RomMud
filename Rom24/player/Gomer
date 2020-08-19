@@ -1,0 +1,379 @@
+#PLAYER
+Name Gomer~
+Id   1597441546
+LogO 1597461050
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race human~
+Sex  1
+Etrait 6
+Htrait 8
+Fheight 6
+Iheight 2
+Weight 185
+Cla  0
+Levl 5
+Plyd 8373
+Not  0 0 0 0 0
+Scro 22
+Room 3035
+HMV  52 52 89 117 124 124
+Gold 1
+Silv 55
+Exp  5280
+Act  DEFQ
+Comm NO
+Pos  8
+Save  -1
+Alig  -791
+ACs 54 53 54 78
+Attr 13 16 15 13 18
+AMod 0 0 0 0 0
+Pass GoGecnwr0RPmY~
+Titl  the Medium of Magic~
+Pnts 40
+TSex 1
+LLev 1
+HMVP 52 117 124
+Cnd  0 20 15 12
+Sk 1 'acid blast'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'cancellation'
+Sk 1 'chain lightning'
+Sk 1 'change sex'
+Sk 1 'charm person'
+Sk 70 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'control weather'
+Sk 1 'curse'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 35 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'haste'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 35 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'lightning bolt'
+Sk 1 'locate object'
+Sk 78 'magic missile'
+Sk 1 'mass invis'
+Sk 1 'nexus'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'refresh'
+Sk 1 'sanctuary'
+Sk 1 'shield'
+Sk 1 'shocking grasp'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'teleport'
+Sk 1 'ventriloquate'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 75 'dagger'
+Sk 1 'lore'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'transportation'
+Gr 'weather'
+Affc 'shield'   0  51  20 -20  17          0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 79 0 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 15
+Cost 48
+End
+
+#O
+Vnum 3138
+Nest 0
+Cond 0
+Wear -1
+Cost 24
+Val  64 48 0 0 0
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 0
+Wear 6
+Cost 72
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 0
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 4
+Cost 72
+End
+
+#O
+Vnum 3705
+Nest 0
+Cond 0
+Wear 3
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 0
+Wear 14
+Cost 48
+End
+
+#O
+Vnum 3707
+Nest 0
+Cond 0
+Wear 7
+Cost 72
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 0
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 6001
+Nest 0
+Cond 0
+Wear 5
+Cost 610
+End
+
+#O
+Vnum 6002
+Nest 0
+Cond 0
+Wear 8
+Cost 310
+End
+
+#O
+Vnum 2322
+Nest 0
+Cond 0
+Wear -1
+Cost 800
+Spell 1 'cure light'
+Spell 2 'cure light'
+Spell 3 'cure light'
+End
+
+#O
+Vnum 3020
+Nest 0
+Cond 0
+Wear 16
+Cost 157
+End
+
+#O
+Vnum 3117
+Nest 0
+Cond 0
+Wear 11
+Cost 510
+End
+
+#END

@@ -1,0 +1,332 @@
+#PLAYER
+Name Florence~
+Id   1597560453
+LogO 1597563051
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race elf~
+Sex  2
+Etrait 3
+Htrait 4
+Fheight 5
+Iheight 8
+Weight 105
+Cla  2
+Levl 40
+Plyd 2598
+Not  0 0 0 0 0
+Scro 22
+Room 3005
+HMV  565 565 201 201 376 376
+Gold 0
+Silv 926
+Exp  50000
+Act  DEFQ
+AfBy J
+Comm NO
+Pos  8
+Save  -3
+Alig  0
+Hit   8
+Dam   3
+ACs -19 -23 -23 64
+Attr 16 14 18 23 15 21 21
+AMod 4 0 0 2 2 0 0
+Pass FlCH59Ppw/1oM~
+Titl  the Master Thief~
+Pnts 45
+TSex 2
+LLev 0
+HMVP 530 201 376
+Cnd  5 0 11 5
+Sk 1 'dagger'
+Sk 1 'mace'
+Sk 99 'sword'
+Sk 99 'backstab'
+Sk 1 'disarm'
+Sk 99 'dodge'
+Sk 99 'trip'
+Sk 11 'second attack'
+Sk 64 'hide'
+Sk 75 'peek'
+Sk 43 'pick lock'
+Sk 64 'sneak'
+Sk 64 'steal'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+End
+
+#O
+Vnum 3716
+Nest 0
+Wear 0
+Cost 0
+Val  0 0 157 0 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Wear -1
+Cost 500
+End
+
+#O
+Vnum 3138
+Nest 0
+Wear -1
+Cost 24
+End
+
+#O
+Vnum 7802
+Nest 0
+Wear 16
+Cost 670
+End
+
+#O
+Vnum 9523
+Nest 0
+Wear -1
+Cost 144
+End
+
+#O
+Vnum 1615
+Nest 0
+Wear 15
+Cost 1540
+End
+
+#O
+Vnum 1615
+Nest 0
+Wear 14
+Cost 1540
+End
+
+#O
+Vnum 5205
+Nest 0
+Wear 7
+Cost 3100
+End
+
+#O
+Vnum 5203
+Nest 0
+Wear 10
+Cost 2700
+End
+
+#O
+Vnum 5204
+Nest 0
+Wear 8
+Cost 3100
+End
+
+#O
+Vnum 5206
+Nest 0
+Wear 13
+Cost 5200
+End
+
+#O
+Vnum 5200
+Nest 0
+Wear 5
+Cost 7600
+End
+
+#O
+Vnum 5201
+Nest 0
+Wear 6
+Cost 3400
+End
+
+#O
+Vnum 5202
+Nest 0
+Wear 9
+Cost 2700
+End
+
+#O
+Vnum 5223
+Nest 0
+Wear 4
+Cost 1600
+End
+
+#O
+Vnum 5223
+Nest 0
+Wear 3
+Cost 1600
+End
+
+#O
+Vnum 2012
+Nest 0
+Wear 11
+Cost 3500
+End
+
+#O
+Vnum 5112
+Nest 0
+Wear 1
+Cost 980
+End
+
+#O
+Vnum 7190
+Nest 0
+Wear 2
+Cost 468
+End
+
+#O
+Vnum 3021
+Nest 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3066
+Nest 0
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3052
+Nest 0
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3021
+Nest 0
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 3066
+Nest 0
+Wear -1
+Cost 430
+End
+
+#O
+Vnum 3052
+Nest 0
+Wear -1
+Cost 112
+End
+
+#O
+Vnum 3004
+Nest 0
+Wear -1
+Cost 11
+Val  12 10 8 0 0
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3011
+Nest 0
+Wear -1
+Cost 9
+End
+
+#END

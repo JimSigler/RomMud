@@ -1,0 +1,11 @@
+--- act_comm.c	Sun Mar 17 23:04:53 1996
++++ act_comm.c	Thu Oct 17 20:52:09 1996
+@@ -302,7 +302,7 @@
+ 	REMOVE_BIT(ch->comm,COMM_NOAUCTION);
+       }
+ 
+-      sprintf( buf, "You auction '%s'\n\r", argument );
++      sprintf( buf, "{yYou auction '%s'{x\n\r", argument );
+       send_to_char( buf, ch );
+       for ( d = descriptor_list; d != NULL; d = d->next )
+       {

@@ -1,0 +1,183 @@
+Sun Aug 16 01:47:22 2020 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Sun Aug 16 01:47:22 2020 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Sun Aug 16 01:47:22 2020 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Sun Aug 16 01:47:22 2020 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Err: obj an icicle (9227) -- 28, mob the Ice Bandit (9228) -- 24
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Err: obj an ice staff (9216) -- 25, mob a baby rainbow dragon (9235) -- 16
+Err: obj an ice staff (9216) -- 25, mob a puddle (9214) -- 8
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj an elemental rod of earthquake (9217) -- 7, mob a small rock (9217) -- 3
+Err: obj elemental wand of wind and air (9218) -- 27, mob a small spark (9218) -- 4
+Err: obj elemental wand of wind and air (9218) -- 27, mob an eddie (9225) -- 2
+Err: obj a wet noodle (8010) -- 5, mob a Futsie (8002) -- 17
+Sun Aug 16 01:47:22 2020 :: ROM is ready to rock on port 9000.
+Sun Aug 16 01:47:23 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 01:47:24 2020 :: Loading Thorin.
+Sun Aug 16 01:47:27 2020 :: Thorin@localhost has connected.
+Sun Aug 16 01:47:31 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 01:47:44 2020 :: Florence@localhost new player.
+Sun Aug 16 01:48:17 2020 :: Log Thorin: set 
+Sun Aug 16 01:48:25 2020 :: Log Thorin: set skill florence backstab 99
+Sun Aug 16 01:48:32 2020 :: Log Thorin: set skill florence sword 99
+Sun Aug 16 01:48:38 2020 :: Log Thorin: set skill florence trip 99
+Sun Aug 16 01:48:43 2020 :: Log Thorin: set skill florence dodge 99
+Sun Aug 16 01:50:41 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:50:47 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:50:53 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:50:59 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:03 2020 :: Florence gained level 2
+Sun Aug 16 01:51:03 2020 :: [*****] BUG: luck was 21 and perc was 35.
+Sun Aug 16 01:51:03 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 01:51:09 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:13 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:18 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:24 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:31 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:39 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:43 2020 :: Florence gained level 3
+Sun Aug 16 01:51:43 2020 :: [*****] BUG: luck was 21 and perc was 39.
+Sun Aug 16 01:51:43 2020 :: [*****] BUG: HP gain: 10  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 01:51:50 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:54 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:51:59 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:06 2020 :: Log Thorin: restore
+Sun Aug 16 01:52:07 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:12 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:17 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:26 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:31 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:36 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:45 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:51 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:52:56 2020 :: Florence gained level 4
+Sun Aug 16 01:52:56 2020 :: [*****] BUG: luck was 21 and perc was 26.
+Sun Aug 16 01:52:56 2020 :: [*****] BUG: HP gain: 10  MANA gain: 3  MOVE gain: 6
+Sun Aug 16 01:52:57 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:54:15 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:54:35 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:54:53 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:55:20 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:55:55 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:56:29 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:56:56 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:57:30 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:57:59 2020 :: Florence gained level 5
+Sun Aug 16 01:57:59 2020 :: [*****] BUG: luck was 21 and perc was 66.
+Sun Aug 16 01:57:59 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 01:58:21 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:58:50 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:59:28 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:00:02 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:00:44 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:01:11 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:02:06 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:02:47 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:03:12 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:03:43 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:04:33 2020 :: Log Thorin: restore
+Sun Aug 16 02:04:35 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:05:03 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:05:41 2020 :: Florence gained level 6
+Sun Aug 16 02:05:41 2020 :: [*****] BUG: luck was 21 and perc was 34.
+Sun Aug 16 02:05:41 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:06:10 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:07:20 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 02:08:50 2020 :: Log Thorin: advance florence 20
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 58.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 10  MANA gain: 3  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 54.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 7  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 57.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 74.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 8  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 45.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 7  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 20.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 22  MANA gain: 4  MOVE gain: 12
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 74.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 79.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 66.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 89.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 10  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 66.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 10  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 34.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 23.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 8  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: luck was 21 and perc was 32.
+Sun Aug 16 02:08:50 2020 :: [*****] BUG: HP gain: 11  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: Log Thorin: advance florence 40
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 15.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 22  MANA gain: 6  MOVE gain: 12
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 46.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 7  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 74.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 7  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 15.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 22  MANA gain: 4  MOVE gain: 12
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 45.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 41.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 8  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 9.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 14  MANA gain: 6  MOVE gain: 12
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 34.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 9  MANA gain: 3  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 99.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 34.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 7  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 4.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 20  MANA gain: 4  MOVE gain: 12
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 95.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 7  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 34.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 9  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 14.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 18  MANA gain: 4  MOVE gain: 12
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 24.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 9  MANA gain: 3  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 6.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 16  MANA gain: 4  MOVE gain: 12
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 32.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 11  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 49.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 10  MANA gain: 3  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 54.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 10  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: luck was 21 and perc was 79.
+Sun Aug 16 02:09:28 2020 :: [*****] BUG: HP gain: 11  MANA gain: 2  MOVE gain: 6
+Sun Aug 16 02:10:05 2020 :: Log Thorin: restore
+Sun Aug 16 02:10:40 2020 :: Log Thorin: load obj 7802
+Sun Aug 16 02:11:48 2020 :: Log Thorin: load obj 9520
+Sun Aug 16 02:12:22 2020 :: Log Thorin: load obj 9520
+Sun Aug 16 02:12:36 2020 :: Log Thorin: load obj 9523
+Sun Aug 16 02:13:09 2020 :: Log Thorin: load obj 3504
+Sun Aug 16 02:13:10 2020 :: Log Thorin: load obj 3504
+Sun Aug 16 02:13:21 2020 :: Log Thorin: load obj 1615
+Sun Aug 16 02:13:41 2020 :: Log Thorin: load obj 1615
+Sun Aug 16 02:14:26 2020 :: Log Thorin: load obj 5205
+Sun Aug 16 02:14:53 2020 :: Log Thorin: load obj 5206
+Sun Aug 16 02:14:57 2020 :: Log Thorin: load obj 5204
+Sun Aug 16 02:15:07 2020 :: Log Thorin: load obj 5203
+Sun Aug 16 02:16:13 2020 :: Log Thorin: load obj 5202
+Sun Aug 16 02:16:17 2020 :: Log Thorin: load obj 5201
+Sun Aug 16 02:16:23 2020 :: Log Thorin: load obj 5200
+Sun Aug 16 02:17:10 2020 :: Log Thorin: load vnum 5223
+Sun Aug 16 02:17:17 2020 :: Log Thorin: load obj 5223
+Sun Aug 16 02:17:19 2020 :: Log Thorin: load obj 5223
+Sun Aug 16 02:17:58 2020 :: Log Thorin: load obj 2012
+Sun Aug 16 02:18:44 2020 :: Log Thorin: load obj 5112
+Sun Aug 16 02:19:19 2020 :: Log Thorin: load obj 7190
+Sun Aug 16 02:30:51 2020 :: EOF encountered on read.
+Sun Aug 16 02:30:51 2020 :: Closing link to Florence.
+Sun Aug 16 02:31:04 2020 :: Log Thorin: shutdown
+Sun Aug 16 02:31:04 2020 :: Closing link to Thorin.
+Sun Aug 16 02:31:04 2020 :: Normal termination of game.

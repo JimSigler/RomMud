@@ -1,0 +1,173 @@
+Sun Aug 16 00:00:57 2020 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Sun Aug 16 00:00:57 2020 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Sun Aug 16 00:00:57 2020 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Sun Aug 16 00:00:57 2020 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Err: obj an icicle (9227) -- 28, mob the Ice Bandit (9228) -- 24
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Err: obj an ice staff (9216) -- 25, mob a baby rainbow dragon (9235) -- 16
+Err: obj an ice staff (9216) -- 25, mob a puddle (9214) -- 8
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj an elemental rod of earthquake (9217) -- 7, mob a small rock (9217) -- 3
+Err: obj elemental wand of wind and air (9218) -- 27, mob a small spark (9218) -- 4
+Err: obj elemental wand of wind and air (9218) -- 27, mob an eddie (9225) -- 2
+Err: obj a wet noodle (8010) -- 5, mob a Futsie (8002) -- 17
+Sun Aug 16 00:00:57 2020 :: ROM is ready to rock on port 9000.
+Sun Aug 16 00:00:59 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 00:01:02 2020 :: Loading Thorin.
+Sun Aug 16 00:01:04 2020 :: Thorin@localhost has connected.
+Sun Aug 16 00:01:11 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 00:01:14 2020 :: Loading Florence.
+Sun Aug 16 00:01:16 2020 :: Florence@localhost has connected.
+Sun Aug 16 00:07:05 2020 :: Log Thorin: restore
+Sun Aug 16 00:14:04 2020 :: Log Thorin: protect florence
+Sun Aug 16 00:14:52 2020 :: Florence gained level 5
+Sun Aug 16 00:14:52 2020 :: [*****] BUG: luck was 21 and perc was 68.
+Sun Aug 16 00:16:35 2020 :: Log Thorin: advance florence 10
+Sun Aug 16 00:16:35 2020 :: [*****] BUG: luck was 21 and perc was 76.
+Sun Aug 16 00:16:35 2020 :: [*****] BUG: luck was 21 and perc was 45.
+Sun Aug 16 00:16:35 2020 :: [*****] BUG: luck was 21 and perc was 94.
+Sun Aug 16 00:16:35 2020 :: [*****] BUG: luck was 21 and perc was 63.
+Sun Aug 16 00:16:35 2020 :: [*****] BUG: luck was 21 and perc was 70.
+Sun Aug 16 00:17:05 2020 :: Log Thorin: advance florence 20
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 39.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 40.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 8.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 65.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 6.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 9.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 27.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 26.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 34.
+Sun Aug 16 00:17:05 2020 :: [*****] BUG: luck was 21 and perc was 41.
+Sun Aug 16 00:22:37 2020 :: Log Thorin: set
+Sun Aug 16 00:22:39 2020 :: Log Thorin: set char
+Sun Aug 16 00:23:05 2020 :: Log Thorin: set char florence luck 20
+Sun Aug 16 00:23:19 2020 :: Log Thorin: advance florence 5
+Sun Aug 16 00:23:19 2020 :: [*****] BUG: luck was 30 and perc was 16.
+Sun Aug 16 00:23:19 2020 :: [*****] BUG: luck was 30 and perc was 11.
+Sun Aug 16 00:23:19 2020 :: [*****] BUG: luck was 30 and perc was 92.
+Sun Aug 16 00:23:19 2020 :: [*****] BUG: luck was 30 and perc was 15.
+Sun Aug 16 00:23:19 2020 :: [*****] BUG: luck was 30 and perc was 77.
+Sun Aug 16 00:23:29 2020 :: Log Thorin: advance florence 20
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 89.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 54.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 43.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 40.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 21.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 36.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 21.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 44.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 55.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 47.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 97.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 67.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 57.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 40.
+Sun Aug 16 00:23:29 2020 :: [*****] BUG: luck was 30 and perc was 54.
+Sun Aug 16 00:24:11 2020 :: Log Thorin: restore
+Sun Aug 16 00:24:33 2020 :: Log Thorin: advance florence 5
+Sun Aug 16 00:24:33 2020 :: [*****] BUG: luck was 30 and perc was 50.
+Sun Aug 16 00:24:33 2020 :: [*****] BUG: luck was 30 and perc was 40.
+Sun Aug 16 00:24:33 2020 :: [*****] BUG: luck was 30 and perc was 60.
+Sun Aug 16 00:24:33 2020 :: [*****] BUG: luck was 30 and perc was 38.
+Sun Aug 16 00:24:33 2020 :: [*****] BUG: luck was 30 and perc was 25.
+Sun Aug 16 00:24:42 2020 :: Log Thorin: restore
+Sun Aug 16 00:24:52 2020 :: Log Thorin: advance florence 20
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 75.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 95.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 27.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 59.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 74.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 35.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 8.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 81.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 38.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 53.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 82.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 23.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 17.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 80.
+Sun Aug 16 00:24:52 2020 :: [*****] BUG: luck was 30 and perc was 81.
+Sun Aug 16 00:25:28 2020 :: Log Thorin: restore
+Sun Aug 16 00:25:38 2020 :: Log Thorin: advance florence 5
+Sun Aug 16 00:25:38 2020 :: [*****] BUG: luck was 30 and perc was 28.
+Sun Aug 16 00:25:38 2020 :: [*****] BUG: luck was 30 and perc was 50.
+Sun Aug 16 00:25:38 2020 :: [*****] BUG: luck was 30 and perc was 86.
+Sun Aug 16 00:25:38 2020 :: [*****] BUG: luck was 30 and perc was 80.
+Sun Aug 16 00:25:38 2020 :: [*****] BUG: luck was 30 and perc was 13.
+Sun Aug 16 00:25:41 2020 :: Log Thorin: advance florence 20
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 47.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 39.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 10.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 42.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 100.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 10.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 63.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 83.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 26.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 45.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 33.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 27.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 25.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 5.
+Sun Aug 16 00:25:41 2020 :: [*****] BUG: luck was 30 and perc was 36.
+Sun Aug 16 00:25:43 2020 :: Log Thorin: restore
+Sun Aug 16 00:26:31 2020 :: Log Thorin: advance florence 5
+Sun Aug 16 00:26:31 2020 :: [*****] BUG: luck was 30 and perc was 63.
+Sun Aug 16 00:26:31 2020 :: [*****] BUG: luck was 30 and perc was 41.
+Sun Aug 16 00:26:31 2020 :: [*****] BUG: luck was 30 and perc was 41.
+Sun Aug 16 00:26:31 2020 :: [*****] BUG: luck was 30 and perc was 26.
+Sun Aug 16 00:26:31 2020 :: [*****] BUG: luck was 30 and perc was 71.
+Sun Aug 16 00:26:35 2020 :: Log Thorin: restore
+Sun Aug 16 00:26:40 2020 :: Log Thorin: advance florence 30
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 56.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 76.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 50.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 69.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 18.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 66.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 26.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 54.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 2.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 27.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 44.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 59.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 48.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 26.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 100.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 67.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 67.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 75.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 15.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 15.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 96.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 92.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 77.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 59.
+Sun Aug 16 00:26:40 2020 :: [*****] BUG: luck was 30 and perc was 54.
+Sun Aug 16 00:26:42 2020 :: Log Thorin: restore
+Sun Aug 16 00:27:09 2020 :: Log Florence: delete
+Sun Aug 16 00:27:11 2020 :: Log Florence: delete
+Sun Aug 16 00:27:11 2020 :: Florence has quit.
+Sun Aug 16 00:27:12 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 00:27:30 2020 :: Florence@localhost new player.
+Sun Aug 16 00:34:23 2020 :: Log Thorin: set skill
+Sun Aug 16 00:34:35 2020 :: Log Thorin: set skill florence backstab 99
+Sun Aug 16 00:34:54 2020 :: Log Thorin: set skill florence bab 99
+Sun Aug 16 00:35:00 2020 :: Log Thorin: set skill florence sword 99
+Sun Aug 16 00:35:25 2020 :: Log Thorin: load obj 3021
+Sun Aug 16 00:36:15 2020 :: Florence gained level 2
+Sun Aug 16 00:36:15 2020 :: [*****] BUG: luck was 21 and perc was 84.
+Sun Aug 16 00:40:00 2020 :: Florence gained level 3
+Sun Aug 16 00:40:00 2020 :: [*****] BUG: luck was 21 and perc was 36.
+Sun Aug 16 00:45:46 2020 :: Log Thorin: pecho loves Thorin.
+Sun Aug 16 00:47:32 2020 :: Log Thorin: restore
+Sun Aug 16 00:48:27 2020 :: localhost input spamming!
+Sun Aug 16 00:50:34 2020 :: Log Thorin: restore
+Sun Aug 16 00:50:54 2020 :: Florence gained level 4
+Sun Aug 16 00:50:54 2020 :: [*****] BUG: luck was 21 and perc was 4.
+Sun Aug 16 00:53:45 2020 :: Log Thorin: reboot
+Sun Aug 16 00:53:45 2020 :: Closing link to Florence.
+Sun Aug 16 00:53:45 2020 :: Closing link to Thorin.
+Sun Aug 16 00:53:45 2020 :: Normal termination of game.

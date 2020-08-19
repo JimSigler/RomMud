@@ -1,0 +1,104 @@
+#PLAYER
+Name Hazel~
+Id   1597441128
+LogO 1597441496
+Vers 5
+Prom {c<%hhp %mm %vmv>{x ~
+Race elf~
+Sex  2
+Etrait 0
+Htrait 0
+Fheight 5
+Iheight 6
+Weight 115
+Cla  2
+Levl 1
+Plyd 368
+Not  0 0 0 0 0
+Scro 22
+Room 3701
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Exp  1250
+Act  Q
+AfBy J
+Comm NO
+Pos  8
+Save  -1
+Alig  0
+Hit   1
+ACs 95 95 95 99
+Attr 12 14 13 18 14
+AMod 0 0 0 0 0
+Pass Ha7LP3xgq472M~
+Titl  the Pilferess~
+Pnts 45
+TSex 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 38 43 43
+Sk 1 'dagger'
+Sk 1 'mace'
+Sk 49 'sword'
+Sk 16 'backstab'
+Sk 1 'disarm'
+Sk 1 'dodge'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 8 'hide'
+Sk 1 'peek'
+Sk 1 'pick lock'
+Sk 1 'sneak'
+Sk 1 'steal'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'thief basics'
+Gr 'thief default'
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 195 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 0
+Cond 0
+Wear 16
+Cost 360
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#END

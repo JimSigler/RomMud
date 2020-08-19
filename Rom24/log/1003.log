@@ -1,0 +1,58 @@
+Sat Aug 15 21:41:05 2020 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Sat Aug 15 21:41:05 2020 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Sat Aug 15 21:41:05 2020 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Sat Aug 15 21:41:05 2020 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Err: obj an icicle (9227) -- 28, mob the Ice Bandit (9228) -- 24
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Err: obj an ice staff (9216) -- 25, mob a baby rainbow dragon (9235) -- 16
+Err: obj an ice staff (9216) -- 25, mob a puddle (9214) -- 8
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj an elemental rod of earthquake (9217) -- 7, mob a small rock (9217) -- 3
+Err: obj elemental wand of wind and air (9218) -- 27, mob a small spark (9218) -- 4
+Err: obj elemental wand of wind and air (9218) -- 27, mob an eddie (9225) -- 2
+Err: obj a wet noodle (8010) -- 5, mob a Futsie (8002) -- 17
+Sat Aug 15 21:41:05 2020 :: ROM is ready to rock on port 9000.
+Sat Aug 15 21:41:34 2020 :: Sock.sinaddr:  127.0.0.1
+Sat Aug 15 21:41:39 2020 :: Loading Thorin.
+Sat Aug 15 21:41:42 2020 :: Thorin@localhost has connected.
+Sat Aug 15 21:44:10 2020 :: Sock.sinaddr:  127.0.0.1
+Sat Aug 15 21:44:13 2020 :: Loading Poppy.
+Sat Aug 15 21:44:14 2020 :: Poppy@localhost has connected.
+Sat Aug 15 21:44:29 2020 :: Poppy has quit.
+Sat Aug 15 21:44:45 2020 :: Sock.sinaddr:  127.0.0.1
+Sat Aug 15 21:45:07 2020 :: Spangler@localhost new player.
+Sat Aug 15 21:48:00 2020 :: Log Thorin: restore
+Sat Aug 15 22:07:23 2020 :: Log Thorin: restore
+Sat Aug 15 22:07:58 2020 :: Thorin has quit.
+Sat Aug 15 22:08:01 2020 :: Sock.sinaddr:  127.0.0.1
+Sat Aug 15 22:08:03 2020 :: Loading Thorin.
+Sat Aug 15 22:08:05 2020 :: Thorin@localhost has connected.
+Sat Aug 15 22:08:52 2020 :: Log Thorin: teleport to wolf
+Sat Aug 15 22:08:58 2020 :: Log Thorin: teleport wolf
+Sat Aug 15 22:09:50 2020 :: Spangler gained level 2
+Sat Aug 15 22:12:42 2020 :: Sock.sinaddr:  127.0.0.1
+Sat Aug 15 22:13:07 2020 :: Boregard@localhost new player.
+Sat Aug 15 22:15:43 2020 :: Log Thorin: restore
+Sat Aug 15 22:16:10 2020 :: Log Thorin: restore
+Sat Aug 15 22:16:43 2020 :: Log Thorin: restore
+Sat Aug 15 22:18:26 2020 :: Log Boregard: delete
+Sat Aug 15 22:18:29 2020 :: Log Boregard: delete
+Sat Aug 15 22:18:30 2020 :: Log Boregard: delete
+Sat Aug 15 22:18:30 2020 :: Boregard has quit.
+Sat Aug 15 22:18:33 2020 :: Sock.sinaddr:  127.0.0.1
+Sat Aug 15 22:18:53 2020 :: Florence@localhost new player.
+Sat Aug 15 22:28:55 2020 :: Log Thorin: restore
+Sat Aug 15 22:33:43 2020 :: Florence gained level 2
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Err: obj an ice staff (9216) -- 25, mob a puddle (9214) -- 8
+Err: obj an elemental rod of earthquake (9217) -- 7, mob a small rock (9217) -- 3
+Err: obj elemental wand of wind and air (9218) -- 27, mob a small spark (9218) -- 4
+Err: obj elemental wand of wind and air (9218) -- 27, mob an eddie (9225) -- 2
+Sat Aug 15 22:36:16 2020 :: Spangler gained level 3
+Err: obj a wet noodle (8010) -- 5, mob a Futsie (8002) -- 17
+Sat Aug 15 22:43:28 2020 :: Log Thorin: shutdown
+Sat Aug 15 22:43:28 2020 :: Closing link to Florence.
+Sat Aug 15 22:43:28 2020 :: Closing link to Thorin.
+Sat Aug 15 22:43:28 2020 :: Closing link to Spangler.
+Sat Aug 15 22:43:29 2020 :: Normal termination of game.

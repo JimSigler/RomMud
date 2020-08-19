@@ -1,0 +1,106 @@
+Sun Aug 16 00:54:00 2020 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Sun Aug 16 00:54:00 2020 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Sun Aug 16 00:54:00 2020 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Sun Aug 16 00:54:00 2020 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Err: obj an icicle (9227) -- 28, mob the Ice Bandit (9228) -- 24
+Err: obj elemental wand of wind and air (9218) -- 27, mob an alchemist (9234) -- 13
+Err: obj an ice staff (9216) -- 25, mob a baby rainbow dragon (9235) -- 16
+Err: obj an ice staff (9216) -- 25, mob a puddle (9214) -- 8
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj elemental wand of fire (9215) -- 16, mob a flame (9215) -- 4
+Err: obj an elemental rod of earthquake (9217) -- 7, mob a small rock (9217) -- 3
+Err: obj elemental wand of wind and air (9218) -- 27, mob a small spark (9218) -- 4
+Err: obj elemental wand of wind and air (9218) -- 27, mob an eddie (9225) -- 2
+Err: obj a wet noodle (8010) -- 5, mob a Futsie (8002) -- 17
+Sun Aug 16 00:54:00 2020 :: ROM is ready to rock on port 9000.
+Sun Aug 16 00:54:02 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 00:54:04 2020 :: Loading Thorin.
+Sun Aug 16 00:54:07 2020 :: Thorin@localhost has connected.
+Sun Aug 16 00:54:11 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 00:54:14 2020 :: Loading Florence.
+Sun Aug 16 00:54:16 2020 :: Florence@localhost has connected.
+Sun Aug 16 01:02:10 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:02:52 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:03:31 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:04:15 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:04:58 2020 :: Florence gained level 5
+Sun Aug 16 01:04:58 2020 :: [*****] BUG: luck was 21 and perc was 98.
+Sun Aug 16 01:05:24 2020 :: Log Florence: delete
+Sun Aug 16 01:05:26 2020 :: Log Florence: delete
+Sun Aug 16 01:05:26 2020 :: Florence has quit.
+Sun Aug 16 01:05:27 2020 :: Sock.sinaddr:  127.0.0.1
+Sun Aug 16 01:05:42 2020 :: Florence@localhost new player.
+Sun Aug 16 01:06:36 2020 :: Log Thorin: set skill florence backstab 99
+Sun Aug 16 01:06:42 2020 :: Log Thorin: set skill florence sword 99
+Sun Aug 16 01:06:57 2020 :: Log Thorin: load obj 3021
+Sun Aug 16 01:07:50 2020 :: Log Thorin: set skill florence trip 99
+Sun Aug 16 01:09:32 2020 :: Log Thorin: load mob 3704
+Sun Aug 16 01:09:49 2020 :: Log Thorin: load mob 3701
+Sun Aug 16 01:09:52 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:09:56 2020 :: Log Thorin: slay blob
+Sun Aug 16 01:10:16 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:10:34 2020 :: Florence gained level 2
+Sun Aug 16 01:10:34 2020 :: [*****] BUG: luck was 21 and perc was 46.
+Sun Aug 16 01:11:35 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:11:41 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:11:53 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:12:26 2020 :: Florence gained level 3
+Sun Aug 16 01:12:26 2020 :: [*****] BUG: luck was 21 and perc was 49.
+Sun Aug 16 01:12:27 2020 :: Log Thorin: restore
+Sun Aug 16 01:13:19 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:13:26 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:13:43 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:13:58 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:14:11 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:14:31 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:14:35 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:14:42 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:14:48 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:15:01 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:15:07 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:15:12 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:15:20 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:15:23 2020 :: Florence gained level 4
+Sun Aug 16 01:15:23 2020 :: [*****] BUG: luck was 21 and perc was 68.
+Sun Aug 16 01:15:47 2020 :: Log Thorin: restore
+Sun Aug 16 01:15:49 2020 :: Log Thorin: load mob 3702
+Sun Aug 16 01:16:32 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:16:51 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:17:28 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:17:50 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:18:14 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:18:55 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:19:25 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:20:03 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:20:36 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:21:07 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:21:32 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:21:57 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:22:26 2020 :: Log Thorin: load mob 3711
+Sun Aug 16 01:22:44 2020 :: Florence gained level 5
+Sun Aug 16 01:22:44 2020 :: [*****] BUG: luck was 21 and perc was 67.
+Sun Aug 16 01:26:03 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:27:17 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:28:18 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:29:23 2020 :: Log Thorin: restore
+Sun Aug 16 01:29:24 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:30:21 2020 :: Log Thorin: load obj
+Sun Aug 16 01:31:21 2020 :: Log Thorin: load obj 3021
+Sun Aug 16 01:32:26 2020 :: Log Thorin: load obj 3021
+Sun Aug 16 01:32:34 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:33:28 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:34:21 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:34:55 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:35:29 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:35:56 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:36:37 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:37:09 2020 :: Log Thorin: load mob 3063
+Sun Aug 16 01:37:46 2020 :: Florence gained level 6
+Sun Aug 16 01:37:46 2020 :: [*****] BUG: luck was 22 and perc was 13.
+Sun Aug 16 01:37:46 2020 :: [*****] BUG: Divider: 8
+Sun Aug 16 01:47:01 2020 :: Log Florence: delete
+Sun Aug 16 01:47:03 2020 :: Log Florence: delete
+Sun Aug 16 01:47:03 2020 :: Florence has quit.
+Sun Aug 16 01:47:06 2020 :: Log Thorin: reboot
+Sun Aug 16 01:47:06 2020 :: Closing link to Thorin.
+Sun Aug 16 01:47:07 2020 :: Normal termination of game.

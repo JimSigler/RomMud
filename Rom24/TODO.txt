@@ -1,0 +1,18 @@
+TODO:
+
+1. race based skills/spells
+	a. level based damage (2d6 for lvl1, 3d6 per level > 4)
+	b. skills/spells based on char stats
+2. cooldown times for skills/spells
+3. add D&D races
+4. add D&D classes
+5. add multi-classing
+6. redo character creation 
+	a. allow stat assignment
+	b. allow spell select
+7. vampirism?
+
+
+
+DONE could be improved upon:
+1. add ability to send log data to imm channel / bug channel
