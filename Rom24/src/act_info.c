@@ -2958,3 +2958,58 @@ void do_password( CHAR_DATA *ch, char *argument )
     send_to_char( "Ok.\n\r", ch );
     return;
 }
+
+void do_istat(CHAR_DATA *ch, char *argument)
+{
+    char buf[MAX_STRING_LENGTH];
+
+    if (IS_NPC(ch))
+        return;
+
+    sprintf(buf, "Retrieving race information for %s%ss.\n\r",
+        IS_IMMORTAL(ch) ? "immortal " : "", race_table[ch->race].name);
+    send_to_char(buf, ch);
+    sprintf(buf, "Str[%2d/%2d] Max[%2d] %s\n\r",
+        ch->perm_stat[STAT_STR],
+        get_curr_stat(ch, STAT_STR),
+        get_max_train(ch, STAT_STR),
+        ch->perm_stat[STAT_STR] == get_max_train(ch, STAT_STR) ? "Maxed" : "");
+    send_to_char(buf, ch);
+    sprintf(buf, "Int[%2d/%2d] Max[%2d] %s\n\r",
+            ch->perm_stat[STAT_INT],
+            get_curr_stat(ch, STAT_INT),
+            get_max_train(ch, STAT_INT),
+        ch->perm_stat[STAT_INT] == get_max_train(ch, STAT_INT) ? "Maxed" : "");
+    send_to_char(buf, ch);
+    sprintf(buf, "Wis[%2d/%2d] Max[%2d] %s\n\r",
+            ch->perm_stat[STAT_WIS],
+            get_curr_stat(ch, STAT_WIS),
+        get_max_train(ch, STAT_WIS),
+        ch->perm_stat[STAT_WIS] == get_max_train(ch, STAT_WIS) ? "Maxed" : "");
+    send_to_char(buf, ch);
+    sprintf(buf, "Dex[%2d/%2d] Max[%2d] %s\n\r",
+            ch->perm_stat[STAT_DEX],
+            get_curr_stat(ch, STAT_DEX),
+        get_max_train(ch, STAT_DEX),
+        ch->perm_stat[STAT_DEX] == get_max_train(ch, STAT_DEX) ? "Maxed" : "");
+    send_to_char(buf, ch);
+    sprintf(buf, "Con[%2d/%2d] Max[%2d] %s\n\r",
+            ch->perm_stat[STAT_CON],
+            get_curr_stat(ch, STAT_CON),
+        get_max_train(ch, STAT_CON),
+        ch->perm_stat[STAT_CON] == get_max_train(ch, STAT_CON) ? "Maxed" : "");
+    send_to_char(buf, ch);
+    sprintf(buf, "Cha[%2d/%2d] Max[%2d] %s\n\r",
+            ch->perm_stat[STAT_CHA],
+            get_curr_stat(ch, STAT_CHA),
+        get_max_train(ch, STAT_CHA),
+        ch->perm_stat[STAT_CHA] == get_max_train(ch, STAT_CHA) ? "Maxed" : "");
+    send_to_char(buf, ch);
+    sprintf(buf, "Luck[%2d/%2d] Max[%2d] %s\n\r",
+            ch->perm_stat[STAT_LUC],
+            get_curr_stat(ch, STAT_LUC),
+        get_max_train(ch, STAT_LUC),
+        ch->perm_stat[STAT_LUC] == get_max_train(ch, STAT_LUC) ? "Maxed" : "");
+    send_to_char(buf, ch);
+    return;
+}

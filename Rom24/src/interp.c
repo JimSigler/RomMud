@@ -140,6 +140,7 @@ const	struct	cmd_type	cmd_table	[] =
     { "whois",		do_whois,	POS_DEAD,	 0,  LOG_NORMAL, 1 },
     { "wizlist",	do_wizlist,	POS_DEAD,        0,  LOG_NORMAL, 1 },
     { "worth",		do_worth,	POS_SLEEPING,	 0,  LOG_NORMAL, 1 },
+    { "istat",          do_istat,       POS_DEAD,        0,  LOG_NEVER,  1 },
 
     /*
      * Configuration commands.

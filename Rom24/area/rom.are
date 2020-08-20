@@ -522,6 +522,11 @@ immune to gate, as well as in player who has no summon set.  Clan members
 may not be gated to except by their fellow Clan members.
 ~
 
+0 ISTAT~
+  This handy little command will show you your character's stats.
+Permanent, current, and max stats are shown. This is race-specific.
+~
+
 -1 AFFECTS AFFECT~
 This command is used to show all the spells affecting your character. At
 low levels, only the spell name will be displayed, at higher levels the

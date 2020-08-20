@@ -300,3 +300,4 @@ DECLARE_DO_FUN( do_zecho	);
 DECLARE_DO_FUN( do_as       );
 DECLARE_DO_FUN( do_immmessage );
 DECLARE_DO_FUN( do_study	);
+DECLARE_DO_FUN( do_istat    );
