@@ -1,6 +1,6 @@
 CC      = gcc
-PROF    = -O -g -lcrypt -Wformat-overflow=0 -Wno-pointer-sign
-NOCRYPT =
+PROF    = -O -g -Wformat-overflow=0 -Wno-pointer-sign -lcrypt
+NOCRYPT = -DNOCRYPT
 C_FLAGS =  -Wall $(PROF) $(NOCRYPT)
 L_FLAGS =  $(PROF)
 
